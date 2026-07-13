@@ -1,8 +1,8 @@
 # Hi, I'm Ivan Maldini 👋
 
-I'm a Frontend Developer from Indonesia.
+I'm a Frontend Developer based in Indonesia.
 
-Currently working on web applications while continuing to learn and improve through real projects. I enjoy turning ideas into interfaces and writing code that's easier to maintain over time.
+Currently building web applications while learning something new from every project.
 
 ## Tech Stack
 
