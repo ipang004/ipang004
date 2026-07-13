@@ -10,20 +10,34 @@ Currently building web applications while learning something new from every proj
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,tailwind,php,laravel,mysql,git,vscode,figma" />
 </p>
 
-## What I'm Working On
+## Current Focus
 
-- Building web applications with SvelteKit & TypeScript
+- Developing web applications with SvelteKit & TypeScript
+- Writing clean and maintainable code
 - Learning better frontend architecture
-- Working with REST APIs
-- Improving code quality and maintainability
+- Collaborating through Git and code reviews
 
-## Projects
+## Featured Projects
 
-- 📚 Yapscholn
-- 📝 Blog CMS
-- 🎓 Repository Book - Multi brand
-- 👨‍👩‍👧 BKKBN - Orang Tua Hebat
-- 📖 Cipta Digital Edukasi
+### 📚 Pustaka Index
+
+Digital repository platform for managing and discovering academic books.
+
+### 📝 Blog CMS
+
+Multi-workspace content management system built with SvelteKit.
+
+### 👨‍👩‍👧 Orang Tua Hebat
+
+Contributed to the frontend development of a web application for BKKBN.
+
+### 🎓 Yapscholn
+
+School management web application.
+
+### 🔄 Cideka Refactor
+
+Refactoring a SvelteKit-based web application by improving component structure, <br> code organization, and maintainability.
 
 ## Currently Learning
 
