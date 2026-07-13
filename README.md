@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Ivan Maldini 👋
 
-<!--
-**ipang004/ipang004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer from Indonesia.
 
-Here are some ideas to get you started:
+Currently working on web applications while continuing to learn and improve through real projects. I enjoy turning ideas into interfaces and writing code that's easier to maintain over time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,tailwind,php,laravel,mysql,git,vscode,figma" />
+</p>
+
+## What I'm Working On
+
+- Building web applications with SvelteKit & TypeScript
+- Learning better frontend architecture
+- Working with REST APIs
+- Improving code quality and maintainability
+
+## Projects
+
+- 📚 Yapscholn
+- 📝 Blog CMS
+- 🎓 Repository Book - Multi brand
+- 👨‍👩‍👧 BKKBN - Orang Tua Hebat
+- 📖 Cipta Digital Edukasi
+
+## Currently Learning
+
+- SvelteKit
+- TypeScript
+- API Integration
+- Performance Optimization
+
+## Connect with Me
+
+- GitHub: @ipang004
+- LinkedIn: (coming soon)
