@@ -1,50 +1,44 @@
-# Hola, me llamo Ivan Maldini👋
+<div align="center">
+
+# Hola, me llamo Ivan Maldini 👋
 
 Currently building web applications while learning something new from every project.
 
-## Tech Stack
+<br />
 
-<p>
+<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,tailwind,php,laravel,nodejs,vite,mysql,git" />
-</p>
+</a>
 
-## Current Focus
+<br />
+<br />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ipang004&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+## 🎯 Current Focus
 
 - Developing web applications with SvelteKit & TypeScript
 - Writing clean and maintainable code
 - Learning better frontend architecture
 - Collaborating through Git and code reviews
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 📚 Pustaka Index
+* **Pustaka Index** — Digital repository platform for managing and discovering academic books.
+* **Yapindo Refactor** — Multi-workspace content management system built with SvelteKit.
+* **Orang Tua Hebat** — Developed a custom WordPress-based web application for BKKBN using PHP, custom styling, and plugin integration.
+* **Yapscholn** — School management web application.
+* **Cideka Refactor** — Refactored and migrated a WordPress web application into a high-performance SvelteKit app deployed on Vercel.
 
-Digital repository platform for managing and discovering academic books.
+## 📚 Currently Learning
 
-### 📝 Blog CMS
-
-Multi-workspace content management system built with SvelteKit.
-
-### 👨‍👩‍👧 Orang Tua Hebat
-
-Contributed to the frontend development of a web application for BKKBN.
-
-### 🎓 Yapscholn
-
-School management web application.
-
-### 🔄 Cideka Refactor
-
-Refactoring a SvelteKit-based web application by improving component structure, <br> code organization, and maintainability.
-
-## Currently Learning
-
-- SvelteKit
-- TypeScript
+- SvelteKit & TypeScript
 - API Integration
 - Performance Optimization
 
-## Connect with Me
+## 📫 Connect with Me
 
-- GitHub: @ipang004
-- LinkedIn: (coming soon)
+- **GitHub:** [@ipang004](https://github.com/ipang004)
+- **LinkedIn:** *(coming soon)*
