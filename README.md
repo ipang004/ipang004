@@ -13,7 +13,7 @@ Currently building web applications while learning something new from every proj
 <br />
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ipang004&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ipang004&theme=react-dark&hide_border=true)](https://github.com/ashutosh0071/github-readme-activity-graph)
 
 </div>
 
