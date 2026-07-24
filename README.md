@@ -5,7 +5,7 @@ Currently building web applications while learning something new from every proj
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,tailwind,php,laravel,nodejs,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,tailwind,php,laravel,nodejs,vite,mysql,git" />
 </p>
 
 ## Current Focus
