@@ -124,10 +124,14 @@ Web application for BKKBN focused on parenting resources and community developme
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ipang004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipang004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ipang004&bg_color=0D1117&color=38BDF8&line=FF3E00&point=FFFFFF&area=true&area_color=FF3E00&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph" width="100%" />
 
 <br /><br />
+
+<img src="https://streak-stats.demolab.com/?user=ipang004&theme=tokyonight&hide_border=true&background=0D1117&ring=FF3E00&fire=FF3E00&currStreakLabel=38BDF8" alt="GitHub streak" />
+
+<br /><br />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ipang004/ipang004/output/github-contribution-grid-snake-dark.svg">
